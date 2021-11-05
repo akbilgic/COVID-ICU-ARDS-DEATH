@@ -1,5 +1,5 @@
 # COVID-ICU-ARDS-DEATH
-Loyola
+Loyola University Chicago
 
 This research aimed to develop machine and deep learning models using both structured clinical data and image data from the electronic health record (EHR) to adverse outcomes following ED admission.
 Light Gradient Boosting Machines (LightGBM) was used as the main machine learning algorithm using clinical data.
