@@ -14,3 +14,6 @@ ICU Admission: 0.665 (0.578-0.752)
 Mortality: 0.759 (0.678-0.840)
 
 This repository contains the relevant files, weights, and scripts to use the transfer learning model to predict the COVID-19 infection, ARDS, ICU admission and mortality. The LGBM models will be available at a later date.
+
+Citation:
+Butler, L., Karabayir, I., Tootooni, M. S., Afshar, M., Goldberg, A., & Akbilgic, O. (2022). Image and structured data analysis for prognostication of health outcomes in patients presenting to the ED during the COVID-19 pandemic. International journal of medical informatics, 158, 104662.
